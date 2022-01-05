@@ -3,9 +3,11 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on HTML & Mini Programs
-- :hammer: Creator of applications and frameworks
-- :ram: Founder the ObjCCN
+- :hammer: Creator(or Imitator) of applications and frameworks
+- :ram: I'm not the founder of  ObjCCN
 - :meat_on_bone: Meat lover
+- 😄 Pronouns: Optimist
+- 📫 How to reach me: 1114174347@qq.com
 ### Hi there 👋
 
 <!--
